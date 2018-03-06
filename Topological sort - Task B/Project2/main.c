@@ -1,7 +1,6 @@
 /**
-*	Project Name: Assignment 2-Part B(DFS-Topological sort)
-*	Student ID: 200906
-*	Name: Tianxiang Lan
+*	Project Name: Part B(DFS-Topological sort)
+*	Author: Tianxiang Lan
 *	Description: All function on part B was implemented. All the result calculated by this program is corrct.
 *              
 *	Date: 10/5/2016
